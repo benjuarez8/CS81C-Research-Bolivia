@@ -1,0 +1,123 @@
+Municipality,Department,Clean,At_Risk,BBS_Risk,VS_Risk,Avg_Turnout,Avg_MAS_vote
+Chacarilla,La Paz,33.33,66.67,33.33,33.33,90.33,0.81
+Malla,La Paz,33.33,66.67,33.33,33.33,96.27,0.83
+Pojo,Cochabamba,42.86,57.14,42.86,14.29,92.67,0.88
+Sacaca,Potosí,45.45,54.55,30.3,24.24,93.73,0.85
+Papel Pampa,La Paz,45.45,54.55,36.36,18.18,90.87,0.82
+San Pedro de Curahuara,La Paz,46.15,53.85,38.46,15.38,92.62,0.89
+Caripuyo,Potosí,46.15,53.85,30.77,23.08,90.48,0.84
+Ayo Ayo,La Paz,47.06,52.94,47.06,5.88,92.62,0.78
+Puerto Pérez,La Paz,50.0,50.0,33.33,16.67,94.78,0.8
+Entre Ríos,Cochabamba,50.0,50.0,48.7,1.3,91.46,0.78
+Villa Gualberto Villarroel,Cochabamba,50.0,50.0,25.0,25.0,92.72,0.81
+Chayanta,Potosí,50.0,50.0,26.67,23.33,91.88,0.76
+Bolivar,Cochabamba,50.0,50.0,28.57,21.43,92.02,0.81
+Laja,La Paz,50.0,50.0,30.0,20.0,95.18,0.78
+Inquisivi,La Paz,52.0,48.0,44.0,4.0,89.9,0.81
+Pucarani,La Paz,52.05,47.95,36.99,10.96,94.47,0.71
+Jesús de Machaka,La Paz,52.38,47.62,23.81,23.81,94.16,0.77
+Ckochas,Potosí,52.94,47.06,41.18,5.88,85.46,0.83
+Tinguipaya,Potosí,53.85,46.15,38.46,7.69,86.12,0.8
+Sicasica,La Paz,54.0,46.0,40.0,6.0,92.56,0.77
+Pocoata,Potosí,54.29,45.71,37.14,8.57,88.96,0.81
+Taraco,La Paz,54.55,45.45,36.36,9.09,92.06,0.78
+Arbieto,Cochabamba,56.76,43.24,35.14,8.11,86.65,0.82
+San Julian,Santa Cruz,56.88,43.12,39.45,3.67,90.24,0.69
+Chimoré,Cochabamba,56.92,43.08,29.23,13.85,91.71,0.86
+Sapahaqui,La Paz,57.14,42.86,39.29,3.57,92.45,0.84
+Colquechaca,Potosí,57.5,42.5,37.5,5.0,89.21,0.79
+Cocapata,Cochabamba,58.62,41.38,34.48,6.9,90.25,0.86
+Shinahota,Cochabamba,59.38,40.62,32.81,7.81,91.33,0.86
+Salinas de Garcí Mendoza,Oruro,60.0,40.0,30.0,10.0,91.43,0.78
+San Pedro,Potosí,60.53,39.47,36.84,2.63,87.07,0.72
+Tiahuanacu,La Paz,60.71,39.29,32.14,7.14,93.2,0.76
+Gutiérrez,Santa Cruz,61.11,38.89,33.33,5.56,87.13,0.64
+Calamarca,La Paz,61.76,38.24,26.47,11.76,93.73,0.73
+Huayllamarca,Oruro,62.5,37.5,25.0,12.5,91.38,0.77
+Totora,Cochabamba,63.41,36.59,34.15,2.44,91.6,0.89
+San Antonio de Lomerio,Santa Cruz,63.64,36.36,27.27,9.09,89.38,0.53
+Puerto Acosta,La Paz,64.71,35.29,29.41,5.88,92.41,0.66
+Colomi,Cochabamba,66.07,33.93,28.57,5.36,91.01,0.79
+Pampa Aullagas,Oruro,66.67,33.33,16.67,16.67,93.48,0.79
+La (Marka) San Andrés de Machaca,La Paz,66.67,33.33,16.67,16.67,86.55,0.81
+Mecapaca,La Paz,67.5,32.5,20.0,12.5,93.41,0.77
+Aiquile,Cochabamba,67.86,32.14,30.36,1.79,87.51,0.75
+Vacas,Cochabamba,68.18,31.82,27.27,4.55,92.7,0.91
+Ayopaya (Villa de Independencia),Cochabamba,68.18,31.82,27.27,4.55,88.43,0.81
+Mocomoco,La Paz,68.18,31.82,18.18,13.64,91.04,0.76
+Luribay,La Paz,69.57,30.43,26.09,4.35,92.32,0.85
+Pampa Grande,Santa Cruz,69.57,30.43,26.09,4.35,92.26,0.52
+Betanzos,Potosí,69.81,30.19,28.3,1.89,85.83,0.73
+Calacoto,La Paz,70.0,30.0,20.0,10.0,89.6,0.79
+Mizque,Cochabamba,70.21,29.79,27.66,2.13,89.14,0.77
+Colquiri,La Paz,70.27,29.73,16.22,13.51,92.81,0.68
+Pocona,Cochabamba,70.83,29.17,25.0,4.17,92.48,0.91
+Ichoca,La Paz,71.43,28.57,14.29,14.29,90.31,0.81
+Corque,Oruro,71.43,28.57,21.43,7.14,88.28,0.68
+Santiago de Callapa,La Paz,71.43,28.57,14.29,14.29,89.61,0.74
+Copacabana,La Paz,72.97,27.03,21.62,5.41,91.63,0.74
+Batallas,La Paz,73.33,26.67,20.0,6.67,93.31,0.68
+Chuma,La Paz,73.33,26.67,20.0,6.67,88.43,0.74
+Escoma,La Paz,73.33,26.67,20.0,6.67,91.61,0.77
+Arque,Cochabamba,73.68,26.32,21.05,5.26,88.97,0.93
+Tapacarí,Cochabamba,73.81,26.19,23.81,2.38,91.4,0.93
+Vitiche,Potosí,75.0,25.0,16.67,8.33,82.8,0.76
+Yapacaní,Santa Cruz,75.74,24.26,23.53,0.74,89.02,0.65
+Capinota,Cochabamba,75.93,24.07,12.96,11.11,90.99,0.7
+Villa Ancoraimes,La Paz,76.0,24.0,16.0,8.0,92.07,0.69
+Santa Rosa,Santa Cruz,76.27,23.73,22.03,1.69,86.57,0.45
+Patacamaya,La Paz,76.36,23.64,14.55,9.09,89.6,0.68
+Corocoro,La Paz,76.47,23.53,17.65,5.88,87.81,0.78
+Caracollo,Oruro,77.36,22.64,13.21,9.43,92.2,0.7
+Sipesipe,Cochabamba,77.78,22.22,11.81,10.42,91.4,0.71
+San Borja,Beni,79.07,20.93,16.28,4.65,84.46,0.48
+Chua Cocani,La Paz,80.0,20.0,10.0,10.0,89.15,0.71
+Tacopaya,Cochabamba,80.0,20.0,13.33,6.67,90.81,0.94
+Caranavi,La Paz,80.0,20.0,17.39,2.61,88.26,0.65
+Buena Vista,Santa Cruz,80.56,19.44,13.89,5.56,87.35,0.47
+Cajuata,La Paz,81.48,18.52,14.81,3.7,92.04,0.68
+Charagua,Santa Cruz,82.5,17.5,12.5,5.0,86.88,0.55
+Achocalla,La Paz,82.86,17.14,10.0,7.14,93.37,0.71
+Irupana,La Paz,83.33,16.67,9.52,7.14,91.06,0.49
+Uncía,Potosí,83.67,16.33,14.29,2.04,88.4,0.59
+Viacha,La Paz,83.82,16.18,10.37,5.81,91.98,0.67
+Palos Blancos,La Paz,83.93,16.07,14.29,1.79,88.75,0.7
+Cotagaita,Potosí,84.38,15.62,12.5,3.12,87.12,0.71
+Puerto Mayor de Carabuco,La Paz,85.19,14.81,11.11,3.7,88.97,0.7
+La Guardia,Santa Cruz,85.76,14.24,12.97,1.27,90.84,0.42
+Cotoca,Santa Cruz,86.03,13.97,7.82,6.15,90.29,0.38
+Sorata,La Paz,86.36,13.64,11.36,2.27,91.82,0.58
+San Ignacio,Santa Cruz,86.71,13.29,10.13,3.16,87.36,0.35
+Achacachi,La Paz,86.79,13.21,10.38,2.83,91.48,0.52
+Sacaba,Cochabamba,88.09,11.91,7.55,4.36,90.79,0.5
+Palca,La Paz,88.24,11.76,8.82,2.94,92.42,0.87
+Challapata,Oruro,88.61,11.39,7.59,3.8,89.68,0.58
+El Torno,Santa Cruz,89.61,10.39,6.49,3.9,90.95,0.52
+Llallagua,Potosí,90.08,9.92,8.26,1.65,91.57,0.52
+Uriondo (Concepción),Tarija,90.24,9.76,4.88,4.88,88.15,0.55
+San Benito (Villa José Quintín Mendoza),Cochabamba,90.24,9.76,7.32,2.44,88.84,0.72
+Pailón,Santa Cruz,90.48,9.52,7.94,1.59,86.43,0.38
+Mairana,Santa Cruz,90.62,9.38,6.25,3.12,90.72,0.53
+Atocha,Potosí,90.91,9.09,4.55,4.55,91.29,0.69
+Cliza,Cochabamba,91.18,8.82,7.35,1.47,86.08,0.73
+El Alto,La Paz,91.43,8.57,8.54,0.03,93.02,0.55
+Vinto,Cochabamba,91.76,8.24,7.06,1.18,91.31,0.58
+Huanuni,Oruro,91.8,8.2,6.56,1.64,91.95,0.63
+Puerto Menor de Rurrenabaque,Beni,91.84,8.16,4.08,4.08,86.37,0.41
+La Asunta,La Paz,92.13,7.87,5.62,2.25,92.12,0.46
+Ascención de Guarayos,Santa Cruz,92.19,7.81,6.25,1.56,87.1,0.45
+Warnes,Santa Cruz,92.61,7.39,6.82,0.57,90.29,0.41
+Porongo,Santa Cruz,92.86,7.14,4.76,2.38,89.25,0.22
+Comarapa,Santa Cruz,92.86,7.14,4.76,2.38,91.68,0.55
+Yacuiba,Tarija,93.19,6.81,4.66,2.15,84.75,0.45
+Fernández Alonso,Santa Cruz,93.55,6.45,3.23,3.23,89.38,0.59
+Villazón,Potosí,93.64,6.36,5.45,0.91,82.38,0.65
+Tiquipaya,Cochabamba,93.79,6.21,3.39,2.82,90.9,0.48
+Tupiza,Potosí,94.55,5.45,4.55,0.91,87.35,0.56
+Cochabamba,Cochabamba,95.01,4.99,4.37,0.62,89.69,0.42
+Riberalta,Beni,95.2,4.8,4.0,0.8,88.53,0.26
+Tarija,Tarija,96.18,3.82,3.27,0.55,88.68,0.31
+Santa Cruz de La Sierra,Santa Cruz,96.5,3.5,3.37,0.13,88.9,0.28
+Nuestra Señora de La Paz,La Paz,96.67,3.33,2.95,0.39,91.0,0.4
+Montero,Santa Cruz,96.69,3.31,2.21,1.1,88.64,0.39
+San Lorenzo,Tarija,97.22,2.78,1.39,1.39,87.64,0.44
